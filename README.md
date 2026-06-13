@@ -1,4 +1,4 @@
-# 💳 RevoBank API - Milestone 4
+# 💳 RevoBank API
 
 A secure, scalable, and modular banking API built for **RevoBank**. This backend service allows customers to manage their bank accounts, securely transfer funds, and view transaction histories, while providing administrators with oversight capabilities.
 
